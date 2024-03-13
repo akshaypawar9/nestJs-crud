@@ -66,7 +66,6 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 - Author - Akshay P
 - Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## License
 
